@@ -1,0 +1,50 @@
+# depslib dependency file v1.0
+1524944981 source:c:\users\ary\documents\codeblocks projects\file handling 6 (multiple choice)\src\answerkey.cpp
+	"AnswerKey.h"
+	<iostream>
+	<fstream>
+
+1524664699 c:\users\ary\documents\codeblocks projects\file handling 6 (multiple choice)\include\answerkey.h
+
+1524949533 source:c:\users\ary\documents\codeblocks projects\file handling 6 (multiple choice)\src\checker.cpp
+	"Checker.h"
+	<iostream>
+	<fstream>
+	<stdlib.h>
+	<conio.h>
+
+1524664712 c:\users\ary\documents\codeblocks projects\file handling 6 (multiple choice)\include\checker.h
+
+1524949283 source:c:\users\ary\documents\codeblocks projects\file handling 6 (multiple choice)\main.cpp
+	<iostream>
+	"Quiz.h"
+	"AnswerKey.h"
+	"Checker.h"
+	"test.h"
+	"p1Turn.h"
+	"p2Turn.h"
+
+1524664682 c:\users\ary\documents\codeblocks projects\file handling 6 (multiple choice)\include\quiz.h
+
+1524949336 source:c:\users\ary\documents\codeblocks projects\file handling 6 (multiple choice)\src\quiz.cpp
+	"Quiz.h"
+	"p1Turn.h"
+	"p2Turn.h"
+	"Checker.h"
+	<iostream>
+	<stdlib.h>
+	<conio.h>
+	<fstream>
+	<windows.h>
+
+1524699154 c:\users\ary\documents\codeblocks projects\file handling 6 (multiple choice)\include\test.h
+
+1524786932 source:c:\users\ary\documents\codeblocks projects\file handling 6 (multiple choice)\src\test.cpp
+	"test.h"
+	<iostream>
+	<stdlib.h>
+
+1524700186 c:\users\ary\documents\codeblocks projects\file handling 6 (multiple choice)\include\p1turn.h
+
+1524700288 c:\users\ary\documents\codeblocks projects\file handling 6 (multiple choice)\include\p2turn.h
+
